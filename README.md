@@ -1,5 +1,4 @@
-# Dustinlang
-A revolutionary new programming language.   
+# Dustinlang 
 This is an interpreter for a fictional little programming language called Dustinlang, which is based on Brainfuck.  
 "Hello World!" in Dustinlang:  
 ----  
